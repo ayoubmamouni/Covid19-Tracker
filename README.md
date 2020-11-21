@@ -1,23 +1,20 @@
 # Corona Project
 #Covid19 Tracker
-__________________________________________
-LIVE PREVIEW                              |
-https://cov19-tracker.vercel.app/         |
-__________________________________________|
 
-_____My Account on FaceBook _iks dev_______
-                                          |
-https://www.facebook.com/iksdev           |
-__________________________________________|
+LIVE PREVIEW                              
+https://cov19-tracker.vercel.app/         
 
-__My Account on Twitter _ @AyoubMamouni7__
-                                          |
-https://www.twitter.com/Ayoubmamouni7     |
-__________________________________________|
+My Account on FaceBook _iks dev
+                                          
+https://www.facebook.com/iksdev           
 
-__My Account on Instagram _ iks.dev_______
-                                          |
-                  iks.dev                 |
-__________________________________________|
+My Account on Twitter _ @AyoubMamouni7
+                                          
+https://www.twitter.com/Ayoubmamouni7     
+
+My Account on Instagram _ iks.dev
+                                          
+                  iks.dev                 
+
 
 API from https://corona.lmao.ninja/v2/countries
