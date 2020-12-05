@@ -1,6 +1,8 @@
 # Corona Project
 #Covid19 Tracker
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C62V5DO)
+
 LIVE PREVIEW                              
 https://cov19-tracker.vercel.app/         
  
